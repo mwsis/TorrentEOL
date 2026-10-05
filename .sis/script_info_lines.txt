@@ -1,0 +1,2 @@
+TorrentEOL: A torrential stream of line parsing.
+Copyright (c) 2026, Matthew Wilson and Synesis Information Systems
