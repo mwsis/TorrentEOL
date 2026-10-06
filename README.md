@@ -1,4 +1,4 @@
-# torrenteol <!-- omit in toc -->
+# TorrentEOL <!-- omit in toc -->
 
 TorrentEOL: A torrential stream of line parsing.
 
